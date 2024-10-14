@@ -1,6 +1,4 @@
 #include 'tlpp-core.th'
-#include "protheus.ch"
-#include "totvs.ch"
 
 /*
 +========================================================================+
@@ -159,13 +157,13 @@
 //Classe: Curso fim
 
 *----------------------*
- user Function ootlpp()
+ Function ootlpp()
 *----------------------*
     u_CadPes()
  return Nil
 
 *----------------------*
- user Function CadPes()
+ Function CadPes()
 *----------------------*
     Local cNome      :="Alexandre"
     Local dNascimento:=CTOD("11/29/1983")

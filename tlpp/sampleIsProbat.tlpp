@@ -1,7 +1,5 @@
-#include 'tlpp-core.th'
-
-
-user function sampleIsProbat()
+#include "tlpp-core.th"
+function sampleIsProbat()
  
   local jModule
  
